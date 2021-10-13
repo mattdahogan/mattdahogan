@@ -22,4 +22,5 @@ We are here to help you!
 <p>Matthew D. Hogan</p>
 
 - Email: mdhogan@uri.edu
+- Phone: +1 207 944 8100
 - Discord: 𝒎𝒂𝒕𝒕#2002
