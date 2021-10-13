@@ -15,7 +15,7 @@ We are here to help you!
 
 - Instructor: Michael Conti (michaelconti@uri.edu), Tyler 137<br>
 - GitHub Repos: https://github.com/mikeconti/csc211-fall2021<br>
-- Class Piazza:https://piazza.com/class/ktdb7kfpdae6zp<br>
+- Class Piazza: https://piazza.com/class/ktdb7kfpdae6zp<br>
 
 <h2>Contact Information</h2>
 
