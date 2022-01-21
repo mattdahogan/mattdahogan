@@ -7,15 +7,15 @@ This year, I get to bring that to another level, as I am one of five TA's for th
 I look forward to helping whoever may need it and sharing my love of computers with others.
 If for any reason you would like to get in touch, I have provided some contact information below.</p>
 
-<h2>CSC 211 - Object Oriented Programming</h2>
+<h2>CSC 211 - Computer Programming</h2>
 
-<p>My office hours are held in-person at the top floor lounge of Tyler Hall from <b>1pm - 2pm on Mondays</b> and <b>4pm - 6pm on Fridays</b>.
+<p>My office hours are held in-person at the top floor lounge of Tyler Hall from <b>3pm - 4pm on Tuesdays</b> and <b>10am - 12pm on Wednesdays</b>.
 However, among my peers, there are office hours of different modalities every day, and you may also ask questions via Piazza, email, etc.
 We are here to help you!
 
 - Instructor: Michael Conti (michaelconti@uri.edu), Tyler 137<br>
-- GitHub Repos: https://github.com/mikeconti/csc211-fall2021<br>
-- Class Piazza: https://piazza.com/class/ktdb7kfpdae6zp<br>
+- GitHub Repos: n/a<br>
+- Class Piazza: n/a<br>
 
 <h2>Contact Information</h2>
 
