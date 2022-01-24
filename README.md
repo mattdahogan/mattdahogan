@@ -3,7 +3,7 @@
 <i>Computer Science, Class of 2024</i><br><br>
 <p>Hey there! My name is Matt and I'm an undergraduate student studying Computer Science at the University of Rhode Island.
 I have been interested in programming and general computer knowledge as far as I can remember, so to be able to pursue that passion is pretty amazing.
-This year, I get to bring that to another level, as I am one of five TA's for the CSC 211 - Object Oriented Programming course.
+On top of that, I get to bring it to another level, as I am one of five TA's for the CSC 211 - Computer Programming course.
 I look forward to helping whoever may need it and sharing my love of computers with others.
 If for any reason you would like to get in touch, I have provided some contact information below.</p>
 
