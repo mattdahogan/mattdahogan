@@ -15,7 +15,7 @@ We are here to help you!
 
 - Instructor: Michael Conti (michaelconti@uri.edu), Tyler 137<br>
 - GitHub Repos: n/a<br>
-- Class Piazza: n/a<br>
+- Class Piazza: https://piazza.com/class/kyug9la17wp5s6<br>
 
 <h2>Contact Information</h2>
 
