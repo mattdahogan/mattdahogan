@@ -8,11 +8,12 @@ I have been interested in programming and general computer knowledge as far as I
 
 - <a href="https://gamejolt.com/games/spaceraceii/714338">Space Race II</a>
 - <a href="https://github.com/mdhoganuri/CSC-212-Final-Project">String Search Algorithms (CSC 212 Final Project)</a>
-- <a href="https://hoganmatt.me/">Personal Website</a>
+- <a href="https://hoganmatt.me/" target="_blank">Personal Website</a>
 
 <h2>Contact Information</h2>
 
 <p>Matthew D. Hogan</p>
 
-- Email: mdhogan@uri.edu
+- Personal Email: matthewdhogan25@gmail.com
+- .EDU Email: mdhogan@uri.edu
 - Discord: 𝒎𝒂𝒕𝒕#2002
