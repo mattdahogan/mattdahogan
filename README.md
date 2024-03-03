@@ -6,7 +6,9 @@
 
 As an undergraduate student studying Computer Science at the University of Rhode Island, I feel as though I am one step closer to becoming the magician my younger self once believed was behind technology as we know it. With each course, I am faced with new challenges which, although sometimes stressful, have a payoff like no other. It's truly amazing to be pursuing this passion of mine and I look forward to bringing my ideas and what I learn to the industry.
 
-<a class="button" href="https://hoganmatt.me/about/resume.pdf">View Resumé</a> <a class="button" href="https://hoganmatt.me/">View Personal Website</a> <a class="button" href="https://www.linkedin.com/in/matthewdhogan25/">View LinkedIn</a>
+- [View Resumé](https://hoganmatt.me/about/resume.pdf)
+- [View LinkedIn](https://www.linkedin.com/in/matthewdhogan25)
+- [Personal Website](https://hoganmatt.me/)
 
 ## Contact
 
@@ -45,19 +47,3 @@ Check out what I'm listening to on Spotify!
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21bc5wdepcvg263mh43olfbfa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=004aaa&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 *Spotify widget courtesy of [kittinan](https://github.com/kittinan/spotify-github-profile).*
-
-<style>
-    .button {
-        margin: 5px;
-        padding: 5px 10px;
-        border: 2px solid #004AAA;
-        border-radius: 1rem;
-        color: #004AAA;
-    }
-
-    .button:hover {
-        background-color: #004AAA;
-        color: #FFFFFF;
-        text-decoration: none;
-    }
-</style>
