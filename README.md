@@ -37,7 +37,9 @@ If you have any questions regarding my skills or would like to know more about m
 If you'd like to see the full extent of my work, check out my [personal website](https://hoganmatt.me/). There, I have a full project portfolio, whereas most of my work on GitHub is for university assignments or open source projects. That being said, here are a few highlights from my GitHub:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mdhoganuri&repo=dnc-convex-hulls)](https://github.com/mdhoganuri/dnc-convex-hulls)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mdhoganuri&repo=csc411_locality)](https://github.com/mdhoganuri/csc411_locality)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mdhoganuri&repo=rum)](https://github.com/mdhoganuri/rum)
 
 ## Like Music? Me Too!
