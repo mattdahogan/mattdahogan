@@ -20,7 +20,7 @@ Throughout my studies, I faced numerous challenges that fueled my passion for pr
 
 ## Education
 
-**University of Rhode Island**, Kingston, RI (2020 - Present)<br>
+**University of Rhode Island**, Kingston, RI (2020 - 2024)<br>
 Bachelor of Science in Computer Science, Minor in Data Science
 
 **Bangor High School**, Bangor, ME (2016 - 2020)<br>
