@@ -4,7 +4,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=mdhoganuri&color=brightgreen" alt="watching_count" /> <img alt="followers" src="https://img.shields.io/github/followers/mdhoganuri?label=Followers&style=social">
 
-As an undergraduate student studying Computer Science at the University of Rhode Island, I feel as though I am one step closer to becoming the magician my younger self once believed was behind technology as we know it. With each course, I am faced with new challenges which, although sometimes stressful, have a payoff like no other. It's truly amazing to be pursuing this passion of mine and I look forward to bringing my ideas and what I learn to the industry.
+As a recent Computer Science graduate from the University of Rhode Island, I am excited to begin my professional career in the tech industry. My academic journey has transformed my childhood fascination with technology into practical skills and innovative solutions.
+
+Throughout my studies, I faced numerous challenges that fueled my passion for problem-solving and continuous learning. I am eager to apply my knowledge, creativity, and enthusiasm to contribute to cutting-edge projects and collaborate with like-minded professionals in the ever-evolving field!
 
 - [View Resumé](https://hoganmatt.me/about/resume.pdf)
 - [View LinkedIn](https://www.linkedin.com/in/matthewdhogan25)
@@ -41,11 +43,3 @@ If you'd like to see the full extent of my work, check out my [personal website]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mdhoganuri&repo=csc411_locality)](https://github.com/mdhoganuri/csc411_locality)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mdhoganuri&repo=rum)](https://github.com/mdhoganuri/rum)
-
-## Like Music? Me Too!
-
-Check out what I'm listening to on Spotify!
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21bc5wdepcvg263mh43olfbfa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=004aaa&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-*Spotify widget courtesy of [kittinan](https://github.com/kittinan/spotify-github-profile).*
