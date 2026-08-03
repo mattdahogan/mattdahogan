@@ -8,14 +8,12 @@ As a recent Computer Science graduate from the University of Rhode Island, I am 
 
 Throughout my studies, I faced numerous challenges that fueled my passion for problem-solving and continuous learning. I am eager to apply my knowledge, creativity, and enthusiasm to contribute to cutting-edge projects and collaborate with like-minded professionals in the ever-evolving field!
 
-- [View Resumé](https://hoganmatt.me/about/resume.pdf)
 - [View LinkedIn](https://www.linkedin.com/in/matthewdhogan25)
 - [Personal Website](https://hoganmatt.me/)
 
 ## Contact
 
 **Email**: matthewdhogan25@gmail.com<br>
-**.edu Email**: mdhogan@uri.edu<br>
 **Discord**: paradoxician
 
 ## Education
@@ -36,10 +34,4 @@ If you have any questions regarding my skills or would like to know more about m
 
 ## Projects
 
-If you'd like to see the full extent of my work, check out my [personal website](https://hoganmatt.me/). There, I have a full project portfolio, whereas most of my work on GitHub is for university assignments or open source projects. That being said, here are a few highlights from my GitHub:
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mattdahogan&repo=dnc-convex-hulls)](https://github.com/mattdahogan/dnc-convex-hulls)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mattdahogan&repo=csc411_locality)](https://github.com/mattdahogan/csc411_locality)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mattdahogan&repo=rum)](https://github.com/mattdahogan/rum)
+If you'd like to see the full extent of my work, check out my [personal website](https://hoganmatt.me/). There, I have a full project portfolio, whereas most of my work on GitHub is for university assignments or open source projects.
