@@ -2,7 +2,7 @@
 
 ![GitHub Header](media/header.png)
 
-<img src="https://komarev.com/ghpvc/?username=mdhoganuri&color=brightgreen" alt="watching_count" /> <img alt="followers" src="https://img.shields.io/github/followers/mdhoganuri?label=Followers&style=social">
+<img src="https://komarev.com/ghpvc/?username=mattdahogan&color=brightgreen" alt="watching_count" /> <img alt="followers" src="https://img.shields.io/github/followers/mattdahogan?label=Followers&style=social">
 
 As a recent Computer Science graduate from the University of Rhode Island, I am excited to begin my professional career in the tech industry. My academic journey has transformed my childhood fascination with technology into practical skills and innovative solutions.
 
